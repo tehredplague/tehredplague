@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tehredplague
 - 👀 I’m interested in ... Working on online roleplaying games
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... my self hosted chat application ChatWrecked
-- 📫 How to reach me ... elredplague@gmail.com
+- 🌱 I’m currently learning ... Developing ChatWrecked and learning C++!
+- 💞️ I’m looking to collaborate on ... My free open source self hosted chat application ChatWrecked
+- 📫 How to reach me ... tehredplague@gmail.com
 
 <!---
 tehredplague/tehredplague is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
