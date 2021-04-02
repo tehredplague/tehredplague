@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tehredplague
 - 👀 I’m interested in ... Working on online roleplaying games
-- 🌱 I’m currently learning ... Developing ChatWrecked and learning C++!
+- 🌱 I’m currently learning ... Developing https://github.com/tehredplague/ChatWrecked and learning C++!
 - 💞️ I’m looking to collaborate on ... My free open source self hosted chat application ChatWrecked
 - 📫 How to reach me ... tehredplague@gmail.com
 
