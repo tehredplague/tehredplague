@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tehredplague
 - 👀 I’m interested in ... Working on online roleplaying games
-- 🌱 I’m currently learning ... c++ and game-engine developement
-- 💞️ I’m looking to collaborate on ... My 2D game-engine 'tikki-takki'
+- 🌱 I’m currently learning ... C++ and game-engine developement
+- 💞️ I’m looking to collaborate on ... Nothing at the moment! *I'm deep in learning mode*
 - 📫 How to reach me ... tehredplague@gmail.com
 
 <!---
