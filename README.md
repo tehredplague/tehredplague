@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tehredplague
-- 👀 I’m interested in ... Working on online roleplaying games
-- 🌱 I’m currently learning ... Rust and game-engine developement
-- 💞️ I’m looking to collaborate on ... online roleplaying game development
+- 👀 I’m interested in ... (ECS && PL) Design
+- 💞️ I’m looking to collaborate on ... Game Developement
 - 📫 How to reach me ... tehredplague@gmail.com
 
 <!---
