@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tehredplague
-- 👀 I’m interested in ... (ECS && PL) Design
-- 💞️ I’m looking to collaborate on ... Game Developement
+- 👀 I’m interested in ... (ECS && PL) Design && Game Physics && Real-time Rendering
+- 💞️ I’m looking to collaborate on ... Anything interesting
 - 📫 How to reach me ... tehredplague@gmail.com
 
 <!---
