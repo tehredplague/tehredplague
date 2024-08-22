@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tehredplague
-- 👀 I’m interested in ... (ECS && PL) Design && Game Physics && Real-time Rendering
+- 👀 I’m interested in ... (ECS && PL) Design && Real-time Rendering && Game Physics && Multiplayer Networking
 - 💞️ I’m looking to collaborate on ... Anything interesting
 - 📫 How to reach me ... tehredplague@gmail.com
 
